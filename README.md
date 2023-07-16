@@ -9,3 +9,11 @@ docker compose build
 ```
 docker compose up
 ```
+
+```
+docker compose up
+```
+
+```
+video : https://www.youtube.com/watch?v=ieyokpQwN_k
+```
